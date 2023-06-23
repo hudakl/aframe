@@ -403,6 +403,8 @@
             }
         },
         {
+            "alphaCutoff" : 0.5,
+            "alphaMode" : "MASK",
             "doubleSided" : true,
             "name" : "Invisible",
             "pbrMetallicRoughness" : {}
